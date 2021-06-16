@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi GitHub!
+
+rmacinnes2 here, I like learning new things.
